@@ -1,60 +1,138 @@
 {
   "coreBadges": {
-    "all": ["Full-Stack Development", "MSP Operations", "Technical Support", "Microsoft 365 Admin", "Endpoint Security", "Linux & Deployment", "AI Integration", "Automation"],
-    "Full-Stack": ["Full-Stack Development", "React & Node.js", "API Development", "Linux & Deployment", "AI Integration", "Database Design", "Automation"],
-    "IT": ["MSP Operations", "Microsoft 365 Admin", "Endpoint Security", "Active Directory", "Technical Support", "Ticket Management", "Automation"],
-    "NOC": ["NOC Operations", "Network Monitoring", "CCNA Fundamentals", "Cisco IOS", "Incident Response", "Network Troubleshooting", "Network Automation"],
-    "Customer-Support": ["Customer Service", "Technical Support", "Client Communication", "Multilingual Support", "Documentation", "Email Support"],
-    "Business-Dev": ["Business Development", "Client Acquisition", "Proposal Writing", "Upwork & Freelancer", "Odoo CRM", "Prompt Engineering", "Bidding Automation"]
+    "all": [
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "REST APIs"
+    ],
+    "Full-Stack": [
+      "Full-Stack Architecture",
+      "Next.js",
+      "Node.js",
+      "Prisma",
+      "PostgreSQL"
+    ],
+    "Frontend": [
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "Chakra UI",
+      "Responsive UI"
+    ],
+    "Backend": [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "Prisma ORM",
+      "MongoDB"
+    ],
+    "AI": [
+      "LangChain",
+      "RAG",
+      "LLM Integration",
+      "Prompt Engineering",
+      "Embeddings"
+    ]
   },
   "categories": [
     {
-      "id": "skill-fullstack",
-      "title": "Full-Stack Development",
-      "roles": ["Full-Stack", "all"],
-      "tags": ["React", "JavaScript (ES6+)", "HTML5", "CSS3", "Node.js", "Express.js", "REST APIs", "Python", "PHP", "Java", "C++", "Vite", "React Router", "Material UI", "Bootstrap", "PostgreSQL", "MySQL", "JWT Auth", "API Integration", "Git", "GitHub", "Postman"]
+      "id": "skill-languages",
+      "title": "Programming Languages",
+      "roles": [
+        "all",
+        "Full-Stack",
+        "Frontend",
+        "Backend",
+        "AI"
+      ],
+      "tags": [
+        "JavaScript (ES6+)",
+        "TypeScript"
+      ]
     },
     {
-      "id": "skill-it-ops",
-      "title": "IT Operations & Technical Support",
-      "roles": ["IT", "NOC", "all"],
-      "tags": ["Microsoft 365", "Exchange Online", "SharePoint", "Azure AD", "Windows Active Directory", "Group Policy", "User Onboarding/Offboarding", "Access Management", "Desktop Support", "Autotask", "Remote Support", "Printer & Workstation Support"]
+      "id": "skill-frontend",
+      "title": "Frontend Development",
+      "roles": [
+        "all",
+        "Full-Stack",
+        "Frontend"
+      ],
+      "tags": [
+        "React.js",
+        "Next.js",
+        "Tailwind CSS",
+        "Material UI (MUI)",
+        "Chakra UI",
+        "Responsive Design"
+      ]
     },
     {
-      "id": "skill-security",
-      "title": "Security & MSP Tooling",
-      "roles": ["IT", "all"],
-      "tags": ["Kaseya", "Datto RMM", "Datto EDR", "ThreatLocker", "Duo MFA", "Graphus", "Inky", "Todyl", "Vonahi", "SpamHero", "Microsoft Defender", "Phishing Investigation", "Email Authentication (DMARC/DKIM/SPF)", "Login Anomaly Analysis", "Endpoint Security", "MFA Enrollment"]
-    },
-    {
-      "id": "skill-linux",
-      "title": "Linux, Deployment & Automation",
-      "roles": ["Full-Stack", "NOC", "all"],
-      "tags": ["Linux VPS", "SSH", "Firewall Config", "Automated Backups", "Cron Jobs", "Python Scripts", "CSV Processing", "Tampermonkey", "AutoHotKey"]
+      "id": "skill-backend",
+      "title": "Backend Development",
+      "roles": [
+        "all",
+        "Full-Stack",
+        "Backend"
+      ],
+      "tags": [
+        "Node.js",
+        "Express.js",
+        "RESTful APIs",
+        "Prisma ORM",
+        "Authentication",
+        "Middleware"
+      ]
     },
     {
       "id": "skill-ai",
-      "title": "AI & Modern Tooling",
-      "roles": ["Full-Stack", "all"],
-      "tags": ["Streamlit", "OpenAI API", "Ollama", "Faster Whisper", "LLM / STT / TTS", "AI-Assisted Dev", "Claude Code", "Modular Service Architecture"]
+      "title": "AI & LLM Engineering",
+      "roles": [
+        "all",
+        "AI",
+        "Backend",
+        "Full-Stack"
+      ],
+      "tags": [
+        "LangChain",
+        "RAG",
+        "LLM Integration",
+        "Prompt Engineering",
+        "Embeddings",
+        "AI Search Systems"
+      ]
     },
     {
-      "id": "skill-networking",
-      "title": "Networking & NOC",
-      "roles": ["NOC", "IT", "all"],
-      "tags": ["TCP/IP", "Subnetting", "VLANs", "Routing (OSPF, EIGRP, RIP)", "SNMP", "Syslog", "Cisco Packet Tracer", "VPN", "MPLS", "Cisco IOS", "CCNA-Level", "Network Automation (Ansible, SDN)"]
-    },
-    {
-      "id": "skill-bizdev",
-      "title": "Business Development & Sales",
-      "roles": ["Business-Dev", "Customer-Support", "all"],
-      "tags": ["Upwork", "Freelancer", "Odoo", "Client Acquisition", "Proposal Writing", "Prompt Engineering", "Excel Reporting", "MySQL", "Chrome Extensions", "Bidding Automation", "NDA/IP Agreements"]
+      "id": "skill-databases",
+      "title": "Databases",
+      "roles": [
+        "all",
+        "Backend",
+        "Full-Stack"
+      ],
+      "tags": [
+        "PostgreSQL",
+        "MongoDB"
+      ]
     },
     {
       "id": "skill-tools",
-      "title": "Tools & Productivity",
-      "roles": ["all"],
-      "tags": ["Slack", "Crisp", "Trello", "Microsoft Excel", "Adobe Illustrator", "DaVinci Resolve"]
+      "title": "Tools & DevOps",
+      "roles": [
+        "all",
+        "Full-Stack",
+        "Frontend",
+        "Backend"
+      ],
+      "tags": [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Vercel"
+      ]
     }
   ]
 }

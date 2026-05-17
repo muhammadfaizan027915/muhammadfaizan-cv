@@ -1,59 +1,44 @@
 {
   "availableRoles": [
     "Full-Stack",
-    "IT",
-    "NOC",
-    "Customer-Support",
-    "Business-Dev"
+    "Frontend",
+    "Backend",
+    "AI"
   ],
-
   "roles": {
     "all": {
-      "subtitle": "Full-Stack Developer \u00b7 MSP Operations \u00b7 IT Support & Automation",
+      "subtitle": "Full-Stack Software Engineer",
       "introParagraphs": [
-        "Full-Stack Developer with {experience} of hands-on experience across MSP IT operations, technical support, and custom web application development. Currently working at Fast & Reliable IT Services, supporting managed environments through ticket handling, user support, Microsoft 365 administration, endpoint security tooling, and day-to-day IT operations while also contributing to internal software projects.",
-        "Independently developed and deployed a custom construction job management platform (React, Node.js, PostgreSQL), handling the full development lifecycle: client communication, requirements gathering, frontend/backend implementation, Linux server management, and third-party integrations.",
-        "Comfortable across technical support and software engineering environments, with experience in automation, cloud administration, Active Directory, endpoint security platforms, and AI-assisted development workflows. Known for adapting quickly, communicating clearly with clients, and taking ownership of problems through to resolution."
+        "Results-driven Full-Stack Software Engineer with {experience} of professional experience building scalable web applications and AI-powered platforms.",
+        "Experienced across frontend, backend, and AI integration workflows using React, Next.js, TypeScript, Node.js, and LangChain in fast-paced startup environments."
       ]
     },
     "Full-Stack": {
-      "subtitle": "Full-Stack Developer \u00b7 React \u00b7 Node.js \u00b7 PostgreSQL \u00b7 AI Integration",
+      "subtitle": "Full-Stack Software Engineer",
       "introParagraphs": [
-        "Full-Stack Developer with {experience} of experience building production applications end-to-end, from client requirements through frontend/backend implementation, Linux server deployment, and third-party integrations. Independently developed and deployed a custom construction job management platform (React, Node.js/Express, PostgreSQL) from scratch, replacing a company\u2019s paid workflow tool.",
-        "Experienced with React, Node.js/Express, PostgreSQL, REST APIs, JWT authentication, QuickBooks API integration, PDF generation workflows, and AI-assisted development. Built and shipped AI interviewer platforms (LLM + STT + TTS) using OpenAI and Ollama, with pluggable service architectures and cross-platform startup tooling.",
-        "Background in MSP operations provides strong operational context, with hands-on experience managing Linux VPS deployments, SSH access, firewall configuration, automated backups, and production troubleshooting alongside the development work."
+        "Full-Stack Engineer with {experience} building production-ready web applications using modern JavaScript frameworks, scalable APIs, and cloud deployment workflows.",
+        "Strong experience delivering end-to-end solutions across frontend architecture, backend APIs, databases, and AI-enabled systems."
       ]
     },
-    "IT": {
-      "subtitle": "IT Support Specialist \u00b7 MSP Operations \u00b7 Microsoft 365 \u00b7 Endpoint Security",
+    "Frontend": {
+      "subtitle": "Frontend Engineer",
       "introParagraphs": [
-        "IT Support Technician with hands-on experience in a fast-paced MSP environment, supporting managed clients across Microsoft 365 administration, Active Directory, endpoint security platforms, and Windows/networking troubleshooting.",
-        "Proficient in the Kaseya ecosystem (Datto RMM, Datto EDR, ThreatLocker, Duo, Graphus, Inky, Autotask), phishing/security investigations, Exchange Online, SharePoint, user onboarding/offboarding, MFA, and access management. Comfortable handling high-volume ticket queues across multiple client environments.",
-        "Software development background enables automation of internal workflows, including custom reporting utilities for investigating abnormal OneDrive synchronization and SharePoint recycle-bin activity, and other internal tooling used in production MSP workflows."
+        "Frontend Engineer with {experience} creating responsive, scalable, and user-focused web interfaces using React.js, Next.js, TypeScript, Tailwind CSS, and Chakra UI.",
+        "Focused on clean UI architecture, reusable component systems, performance optimization, and intuitive user experiences."
       ]
     },
-    "NOC": {
-      "subtitle": "NOC Engineer \u00b7 Network Monitoring \u00b7 CCNA \u00b7 Infrastructure Support",
+    "Backend": {
+      "subtitle": "Backend Engineer",
       "introParagraphs": [
-        "NOC Technician with hands-on experience in network operations and IT infrastructure, combining practical MSP support work with deep Cisco CCNA-level networking knowledge. Currently supporting managed client environments with network monitoring, connectivity troubleshooting, and incident response at Fast & Reliable IT Services.",
-        "Strong foundation in Cisco CCNA concepts including OSI Model, TCP/IP Stack, IPv4/IPv6, subnetting, VLANs, routing (OSPF, EIGRP, RIP), NAT, ACLs, WAN, wireless, and security. Completed extensive Cisco Packet Tracer labs covering router/switch configuration, troubleshooting, VLANs, routing protocols, DHCP, HSRP, STP, and EtherChannel.",
-        "Familiar with network monitoring concepts including SNMP, Syslog, and monitoring platform workflows through CCNA study. Knowledgeable in LAN/WAN configuration (VPN, MPLS), firewall and security concepts (ACLs, port security, DHCP snooping, IDS/IPS), device management (Cisco IOS, SSH, AAA), QoS, and network automation concepts (APIs, Ansible, SDN)."
+        "Backend Engineer with {experience} developing secure REST APIs, scalable Node.js services, and database-driven applications.",
+        "Experienced with Express.js, Prisma ORM, authentication systems, validation, and backend architecture for modern web applications."
       ]
     },
-    "Customer-Support": {
-      "subtitle": "Customer Support Specialist \u00b7 Technical & Product Support \u00b7 Client Communication",
+    "AI": {
+      "subtitle": "AI Software Engineer",
       "introParagraphs": [
-        "Customer Support Specialist with {experience} of experience delivering technical and product support across fast-paced remote environments, handling 30\u201350 client requests per day at peak volume.",
-        "Experienced with supporting users through annotated screenshots, screen recordings, and step-by-step guides. Comfortable communicating with non-English-speaking clients, and proficient with Crisp, Slack, and email-based support workflows. Skilled at translating technical solutions into clear, accessible instructions.",
-        "Client-facing background extends to business development and account management at PanaceaLogics, conducting client meetings, gathering project requirements, managing client relationships via Odoo, and handling follow-ups across Upwork and Freelancer projects."
-      ]
-    },
-    "Business-Dev": {
-      "subtitle": "Business Development Specialist \u00b7 Client Acquisition \u00b7 Upwork \u00b7 Proposal Writing",
-      "introParagraphs": [
-        "Business Development Specialist with {experience} of experience in client acquisition, proposal writing, and account management on Upwork and Freelancer. Developed and optimized bidding workflows with automation, improving platform efficiency and client conversion rates at PanaceaLogics.",
-        "Experienced in using Odoo for client management: scheduling calls, conducting requirements meetings, and handling project follow-ups. Applied prompt engineering to train AI models for automated proposal writing and job description classification, streamlining the BD pipeline.",
-        "Comfortable identifying high-value opportunities using platform-specific strategies (connect optimization, profile boosting, hiring trend analysis) and navigating NDA/IP agreements. Built supporting tools including WhatsApp bulk messaging automation and Excel-based tracking systems for bids and ongoing projects."
+        "AI-focused Software Engineer with {experience} building LangChain-powered applications, RAG systems, and intelligent automation tools.",
+        "Skilled in integrating LLM workflows, embeddings, prompt engineering, and AI search capabilities into production web platforms."
       ]
     }
   }

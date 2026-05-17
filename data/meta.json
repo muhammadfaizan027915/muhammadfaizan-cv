@@ -1,14 +1,19 @@
 {
-  "name": "Ibrahim Ahtsham",
-  "location": "Riyadh, Saudi Arabia",
-  "phone": "(+966) 56 812 6653",
-  "email": "ibrahimahtsham2002@gmail.com",
-  "dob": "Born 16 Sep 2002",
-  "linkedin": "https://www.linkedin.com/in/ibrahim-a-190637254",
-  "linkedinDisplay": "linkedin.com/in/ibrahim-a-190637254",
-  "github": "https://www.github.com/ibrahimahtsham",
-  "githubDisplay": "github.com/ibrahimahtsham",
-  "photo": "images/my face updated.jpg",
+  "name": "Muhammad Faizan",
+  "location": "Sargodha, Pakistan",
+  "phone": "+92 317 565 9371",
+  "email": "muhammadfaizan027915@gmail.com",
+  "dob": "18 January, 2003",
+  "linkedin": "https://linkedin.com/in/muhammad-faizan027915",
+  "linkedinDisplay": "linkedin.com/in/muhammad-faizan027915",
+  "github": "https://github.com/muhammadfaizan027915",
+  "githubDisplay": "github.com/muhammadfaizan027915",
+  "photo": "images/profile-image.png",
   "qr": "images/qr-code.png",
-  "metaBadges": ["Transferable Iqama", "Immediate Availability", "Open to Relocation"]
+  "metaBadges": [
+    "3+ Years Experience",
+    "Open to Remote",
+    "AI-Powered Applications",
+    "Full-Stack Engineer"
+  ]
 }

@@ -1,32 +1,15 @@
 [
   {
-    "id": "edu-riphah",
-    "degree": "BSc Software Engineering",
-    "institution": "Riphah International University",
-    "period": "Sep 2020 \u2013 Sep 2024",
-    "location": "I-14, Islamabad, Pakistan",
-    "url": "https://www.riphah.edu.pk/",
-    "urlDisplay": "www.riphah.edu.pk",
-    "highlights": ["CGPA: 3.58 / 4.0", "1st place FYP award across Faculty of Computing"]
-  },
-  {
-    "id": "edu-kips",
-    "degree": "Higher Secondary Certificate (HSSC)",
-    "institution": "KIPS College Islamabad",
-    "period": "Jan 2018 \u2013 Jan 2020",
-    "location": "G-9 Markaz, Islamabad, Pakistan",
-    "url": "https://www.kips.edu.pk/",
-    "urlDisplay": "www.kips.edu.pk",
-    "highlights": []
-  },
-  {
-    "id": "edu-pisj",
-    "degree": "Matriculation",
-    "institution": "Pakistan International School Jeddah (PISJ)",
-    "period": "Jan 2016 \u2013 Jan 2018",
-    "location": "Al-Azizia, Jeddah, Saudi Arabia",
-    "url": "https://cambridge.pisjazizia.com/",
-    "urlDisplay": "cambridge.pisjazizia.com",
-    "highlights": []
+    "id": "edu-vu-pakistan",
+    "degree": "Bachelor of Science in Software Engineering",
+    "institution": "Virtual University of Pakistan",
+    "period": "2020 – 2026",
+    "location": "Pakistan",
+    "url": "https://www.vu.edu.pk/",
+    "urlDisplay": "vu.edu.pk",
+    "highlights": [
+      "GPA: 3.89 / 4.00",
+      "Relevant Coursework: Web Development, OOP, DBMS, Programming Fundamentals"
+    ]
   }
 ]

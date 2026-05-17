@@ -2,16 +2,16 @@
   {
     "name": "Urdu",
     "level": "Native",
-    "description": "Perfect fluency in speaking, reading, and writing."
+    "description": "Native proficiency in spoken and written Urdu."
   },
   {
     "name": "English",
     "level": "Fluent / Professional",
-    "description": "Full professional proficiency, used daily for work, study, and communication."
+    "description": "Professional working proficiency for technical communication, documentation, and collaboration."
   },
   {
-    "name": "Arabic",
-    "level": "Basic / Conversational",
-    "description": "Can understand spoken Arabic and hold basic conversations; limited reading/writing. Used in social and travel contexts."
+    "name": "Punjabi",
+    "level": "Native",
+    "description": "Native proficiency in spoken Punjabi."
   }
 ]

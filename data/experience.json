@@ -1,467 +1,222 @@
 [
   {
-    "id": "exp-fast-reliable",
-    "title": "IT Technician",
-    "org": "Fast & Reliable IT Services",
-    "periodStart": "2026-03",
+    "id": "exp-asimplify",
+    "title": "Software Engineer",
+    "org": "aSimplify",
+    "periodStart": "2023-10",
     "periodEnd": null,
-    "periodDisplay": "Mar 2026 – Present",
-    "location": "Corpus Christi, TX",
-    "mode": "Remote",
+    "periodDisplay": "Oct 2023 – Present",
+    "location": "Islamabad, Pakistan",
+    "mode": "Hybrid",
     "roles": [
-      "IT",
-      "NOC",
-      "Full-Stack"
+      "Full-Stack",
+      "Frontend",
+      "Backend",
+      "AI"
     ],
-    "openByDefault": false,
+    "openByDefault": true,
     "bullets": [
       {
-        "text": "Managed and resolved support tickets across Microsoft 365, Windows, networking, printers, endpoint security, and workstation issues within an MSP environment.",
-        "roles": [
-          "IT",
-          "NOC",
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Provided remote technical support through calls, email, and Autotask while prioritizing urgent client issues and maintaining clear communication throughout the resolution process.",
-        "roles": [
-          "IT",
-          "NOC",
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Assisted with Microsoft 365 administration including Exchange, SharePoint, user onboarding/offboarding, account permissions, MFA setup, mailbox management, and account lockdown procedures.",
-        "roles": [
-          "IT"
-        ]
-      },
-      {
-        "text": "Worked with Windows Active Directory and domain environments to manage users, reset passwords, configure group policies, and maintain access controls.",
-        "roles": [
-          "IT",
-          "NOC"
-        ]
-      },
-      {
-        "text": "Investigated endpoint and security alerts using Datto EDR, Graphus, ThreatLocker, Duo, Inky, and related Kaseya ecosystem platforms.",
-        "roles": [
-          "IT"
-        ]
-      },
-      {
-        "text": "Led end-to-end phishing incident response for a managed client: identified 5 malicious emails sent through Amazon SES using a spoofed domain (aws.crowdaa.com) that bypassed spam filters, analyzed email headers to pinpoint an SPF alignment failure confirming the emails were fraudulent, verified delivery via Microsoft Exchange Admin Center message trace, and contained the threat by blocking the domain in SpamHero and issuing targeted user warnings.",
-        "roles": [
-          "IT"
-        ]
-      },
-      {
-        "text": "Assisted with phishing investigations, login anomaly reviews, vulnerability assessment workflows using Vonahi, and general security operations support.",
-        "roles": [
-          "IT"
-        ]
-      },
-      {
-        "text": "Contributed to internal software projects including a custom construction job management platform and CCTV investigation tooling for automated footage analysis and incident review workflows.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Managed Linux-based deployment workflows using SSH, firewall configuration, automated backups, and secure remote access practices.",
+        "text": "Lead front-end development using React.js, Next.js, TypeScript, Tailwind CSS, and Chakra UI across multiple production applications.",
         "roles": [
           "Full-Stack",
-          "NOC"
+          "Frontend"
         ]
       },
       {
-        "text": "Built internal reporting utilities to investigate abnormal OneDrive synchronization and SharePoint recycle-bin activity.",
+        "text": "Architected and implemented RESTful APIs with Node.js and Next.js API routes, improving maintainability and backend scalability.",
         "roles": [
           "Full-Stack",
-          "IT"
+          "Backend"
+        ]
+      },
+      {
+        "text": "Integrated LangChain-powered AI pipelines including RAG systems, embeddings, and LLM chains for intelligent content generation and search.",
+        "roles": [
+          "Full-Stack",
+          "AI",
+          "Backend"
+        ]
+      },
+      {
+        "text": "Collaborated closely with product and design teams to translate business requirements into scalable user-focused features.",
+        "roles": [
+          "Full-Stack",
+          "Frontend"
         ]
       }
     ],
     "tags": {
-      "IT": [
-        "MSP Operations",
-        "Microsoft 365",
-        "Exchange Online",
-        "SharePoint",
-        "Active Directory",
-        "Group Policy",
-        "Datto EDR",
-        "Autotask",
-        "Kaseya",
-        "ThreatLocker",
-        "Duo MFA",
-        "Vonahi",
-        "SpamHero",
-        "Microsoft Defender",
-        "DMARC/DKIM/SPF"
+      "Frontend": [
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Chakra UI"
       ],
-      "NOC": [
-        "MSP Operations",
-        "Active Directory",
-        "Autotask",
-        "Kaseya",
-        "Linux",
-        "SSH",
-        "Firewall"
+      "Backend": [
+        "Node.js",
+        "REST APIs",
+        "Next.js API Routes",
+        "Prisma"
       ],
+      "AI": [
+        "LangChain",
+        "RAG",
+        "LLMs",
+        "Embeddings",
+        "Prompt Engineering"
+      ],
+      "all": [
+        "Full-Stack Development",
+        "Scalable Architecture",
+        "Agile Collaboration"
+      ]
+    }
+  },
+  {
+    "id": "exp-techedge",
+    "title": "Full-Stack Developer (Contract)",
+    "org": "TechEdge",
+    "periodStart": "2023-09",
+    "periodEnd": "2023-09",
+    "periodDisplay": "Sep 2023",
+    "location": "Remote",
+    "mode": "Remote",
+    "roles": [
+      "Full-Stack",
+      "Frontend",
+      "Backend"
+    ],
+    "openByDefault": false,
+    "bullets": [
+      {
+        "text": "Delivered end-to-end full-stack features using React.js, TypeScript, Node.js, and Tailwind CSS within a fast-paced contract timeline.",
+        "roles": [
+          "Full-Stack",
+          "Frontend",
+          "Backend"
+        ]
+      },
+      {
+        "text": "Built and documented backend REST APIs with authentication and validation, reducing production bugs through strong typing practices.",
+        "roles": [
+          "Full-Stack",
+          "Backend"
+        ]
+      }
+    ],
+    "tags": {
       "Full-Stack": [
-        "Linux",
-        "SSH",
-        "React",
+        "React.js",
+        "TypeScript",
         "Node.js",
-        "PostgreSQL",
-        "Automation",
-        "Autotask"
+        "Tailwind CSS"
+      ],
+      "Backend": [
+        "REST APIs",
+        "Authentication",
+        "Validation"
       ],
       "all": [
-        "MSP Operations",
-        "Microsoft 365",
-        "Exchange Online",
-        "SharePoint",
-        "Active Directory",
-        "Group Policy",
-        "Datto EDR",
-        "Autotask",
-        "Kaseya",
-        "ThreatLocker",
-        "Duo MFA",
-        "SpamHero",
-        "Microsoft Defender",
-        "DMARC/DKIM/SPF",
-        "Linux",
-        "React",
-        "Node.js",
-        "PostgreSQL"
+        "Contract Development",
+        "Rapid Delivery"
       ]
     }
   },
   {
-    "id": "exp-panacealogics-ai",
-    "title": "AI Intern",
-    "org": "PanaceaLogics",
-    "periodStart": "2025-09",
-    "periodEnd": "2025-10",
-    "periodDisplay": "Sep 2025 – Oct 2025",
-    "location": "Rawalpindi, Pakistan",
-    "mode": "On-site",
+    "id": "exp-react-intern",
+    "title": "React Developer Intern",
+    "org": "aSimplify",
+    "periodStart": "2023-07",
+    "periodEnd": "2023-09",
+    "periodDisplay": "Jul 2023 – Sep 2023",
+    "location": "Islamabad, Pakistan",
+    "mode": "Hybrid",
     "roles": [
+      "Frontend",
       "Full-Stack"
     ],
     "openByDefault": false,
     "bullets": [
       {
-        "text": "Built AI Interviewer platforms (cloud + offline) using Streamlit: online version leverages OpenAI (LLM, STT, TTS); local variant integrates Ollama and Faster Whisper.",
+        "text": "Developed reusable UI components using React, Next.js, Tailwind CSS, MUI, and Chakra UI.",
         "roles": [
+          "Frontend",
           "Full-Stack"
         ]
       },
       {
-        "text": "Designed pluggable provider architecture with environment-driven configuration enabling seamless swapping of LLM/speech backends without refactors.",
+        "text": "Integrated frontend interfaces with backend REST APIs to improve data flow and user experience.",
         "roles": [
+          "Frontend",
+          "Full-Stack",
+          "Backend"
+        ]
+      },
+      {
+        "text": "Participated in agile sprint planning and code reviews, contributing to team productivity and code quality.",
+        "roles": [
+          "Frontend",
           "Full-Stack"
-        ]
-      },
-      {
-        "text": "Implemented modular service layer (llm_service.py, stt_service.py, tts_service.py) fully decoupled from UI tabs for isolated testing and future expansion.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Added streaming token output pipelines and lazy resource initialization to reduce latency and memory footprint in local mode.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Authored cross-platform one-command startup scripts (Windows & Linux/macOS) automating virtualenv creation, dependency install, and app launch.",
-        "roles": [
-          "Full-Stack"
-        ]
-      }
-    ],
-    "tags": [
-      "Python",
-      "Streamlit",
-      "OpenAI API",
-      "Ollama",
-      "Faster Whisper",
-      "LLM Integration",
-      "STT/TTS Pipelines",
-      "Modular Architecture"
-    ]
-  },
-  {
-    "id": "exp-panacealogics-bd",
-    "title": "Business Development Specialist",
-    "org": "PanaceaLogics",
-    "periodStart": "2024-09",
-    "periodEnd": "2025-08",
-    "periodDisplay": "Sep 2024 – Aug 2025",
-    "location": "Rawalpindi, Pakistan",
-    "mode": "On-site",
-    "roles": [
-      "Business-Dev",
-      "Customer-Support"
-    ],
-    "openByDefault": false,
-    "bullets": [
-      {
-        "text": "Joined as Business Development Trainee (Sep–Oct 2024), promoted to Specialist within 2 months based on performance in client acquisition and bidding workflow optimisation.",
-        "roles": [
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Gained expertise in freelancing platforms (Upwork, Freelancer): bidding strategies, client acquisition, and profile optimization.",
-        "roles": [
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Managed clients using Odoo: scheduling calls, conducting meetings, gathering project requirements, and handling follow-ups.",
-        "roles": [
-          "Business-Dev",
-          "Customer-Support"
-        ]
-      },
-      {
-        "text": "Developed and optimized the bidding workflow with automation to improve efficiency and client conversion rate.",
-        "roles": [
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Created detailed Excel reports for tracking bids, ongoing projects, and client interactions.",
-        "roles": [
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Assisted in developing Chrome extensions to streamline bidding and project management workflows.",
-        "roles": [
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Built an internal React dashboard to automate client data extraction from Freelancer.com, track bid success rates, and calculate team commissions based on awarded projects.",
-        "roles": [
-          "Business-Dev",
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Explored MySQL Workbench for handling and managing databases.",
-        "roles": [
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Learned prompt engineering to train AI chat models for writing proposals and detecting technical vs. non-technical job descriptions.",
-        "roles": [
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Identified common bidding criteria including location, budget, skills, client verification, and hiring trends.",
-        "roles": [
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Understood best practices for client communication, identifying scams, and navigating NDA/IP agreements on freelancing platforms.",
-        "roles": [
-          "Business-Dev",
-          "Customer-Support"
-        ]
-      },
-      {
-        "text": "Researched platform-specific strategies including connect replenishment, profile boosting, and filtering methods on Upwork and Freelancer.",
-        "roles": [
-          "Business-Dev"
         ]
       }
     ],
     "tags": {
-      "Business-Dev": [
-        "Business Development",
-        "Upwork",
-        "Freelancer",
-        "Odoo",
-        "Prompt Engineering",
-        "MySQL",
-        "Excel",
-        "Chrome Extensions",
-        "Client Acquisition"
-      ],
-      "Customer-Support": [
-        "Client Communication",
-        "Odoo",
-        "NDA/IP Agreements",
-        "Requirements Gathering",
-        "Follow-ups"
+      "Frontend": [
+        "React.js",
+        "Next.js",
+        "Tailwind CSS",
+        "MUI",
+        "Chakra UI"
       ],
       "all": [
-        "Business Development",
-        "Upwork",
-        "Freelancer",
-        "Odoo",
-        "SQL",
-        "Prompt Engineering",
-        "MySQL",
-        "Excel",
-        "Chrome Extensions"
+        "Agile",
+        "Code Reviews",
+        "Reusable Components"
       ]
     }
   },
   {
-    "id": "exp-stackexpert",
-    "title": "WordPress Developer",
-    "org": "StackExpert",
-    "periodStart": "2024-07",
-    "periodEnd": "2024-08",
-    "periodDisplay": "Jul 2024 – Aug 2024",
+    "id": "exp-omsre-grp",
+    "title": "Backend Developer",
+    "org": "OMSRE GRP",
+    "periodStart": "2023-02",
+    "periodEnd": "2023-03",
+    "periodDisplay": "Feb 2023 – Mar 2023",
     "location": "Islamabad, Pakistan",
     "mode": "On-site",
     "roles": [
+      "Backend",
       "Full-Stack"
     ],
     "openByDefault": false,
     "bullets": [
       {
-        "text": "Developed and customized WordPress themes and plugins (including WooCommerce) to meet client requirements.",
+        "text": "Designed and developed Express.js REST APIs handling middleware, business logic, and database interactions.",
         "roles": [
+          "Backend",
           "Full-Stack"
         ]
       },
       {
-        "text": "Built and designed websites using Elementor, optimizing for performance, security, and SEO.",
+        "text": "Implemented secure backend practices including validation, error handling, and secure data access patterns.",
         "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Troubleshot WordPress-related issues, ensuring a seamless user experience across client sites.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Explored Laravel fundamentals, gaining foundational knowledge of backend development in PHP.",
-        "roles": [
-          "Full-Stack"
+          "Backend"
         ]
       }
     ],
-    "tags": [
-      "WordPress",
-      "WooCommerce",
-      "Elementor",
-      "PHP",
-      "Laravel",
-      "SEO",
-      "Web Development"
-    ]
-  },
-  {
-    "id": "exp-rtechnologies",
-    "title": "Junior Android Developer",
-    "org": "R Technologies",
-    "periodStart": "2024-06",
-    "periodEnd": "2024-07",
-    "periodDisplay": "Jun 2024 – Jul 2024",
-    "location": "Islamabad, Pakistan",
-    "mode": "Remote",
-    "roles": [
-      "Full-Stack"
-    ],
-    "openByDefault": false,
-    "bullets": [
-      {
-        "text": "Developed and delivered Android applications in Java/Kotlin, ensuring smooth performance and intuitive UX.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Collaborated with design and product teams on app interfaces; conducted code reviews and followed best practices.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Tracked development sprints and daily tasks using Trello.",
-        "roles": [
-          "Full-Stack"
-        ]
-      }
-    ],
-    "tags": [
-      "Java",
-      "Kotlin",
-      "Android Studio",
-      "Mobile Development",
-      "Trello"
-    ]
-  },
-  {
-    "id": "exp-cartkit",
-    "title": "Customer Service Representative",
-    "org": "CartKit",
-    "periodStart": "2024-04",
-    "periodEnd": "2024-09",
-    "periodDisplay": "Apr 2024 – Sep 2024",
-    "location": "Islamabad, Pakistan",
-    "mode": "Remote",
-    "roles": [
-      "Customer-Support"
-    ],
-    "openByDefault": false,
-    "bullets": [
-      {
-        "text": "Handled 30–50 customer requests per day via Crisp, assisting users in creating custom popups and banners for online stores.",
-        "roles": [
-          "Customer-Support"
-        ]
-      },
-      {
-        "text": "Integrated popups and banners with automated email campaigns for promotions.",
-        "roles": [
-          "Customer-Support"
-        ]
-      },
-      {
-        "text": "Generated annotated screenshots and screen recordings to guide users through setup processes step by step.",
-        "roles": [
-          "Customer-Support"
-        ]
-      },
-      {
-        "text": "Assisted clients who did not speak English as their primary language, ensuring seamless communication.",
-        "roles": [
-          "Customer-Support"
-        ]
-      },
-      {
-        "text": "Used Slack to communicate with the development team for feature requests and updates.",
-        "roles": [
-          "Customer-Support"
-        ]
-      }
-    ],
-    "tags": [
-      "Customer Service",
-      "Crisp",
-      "Email Marketing",
-      "Slack",
-      "Technical Documentation",
-      "Multilingual Support"
-    ]
+    "tags": {
+      "Backend": [
+        "Express.js",
+        "REST APIs",
+        "Middleware",
+        "Validation",
+        "Security"
+      ],
+      "all": [
+        "Backend Architecture"
+      ]
+    }
   }
 ]

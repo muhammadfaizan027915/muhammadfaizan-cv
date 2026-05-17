@@ -1,480 +1,160 @@
 [
   {
-    "id": "proj-mammoth",
-    "title": "Mammoth Job Management System",
-    "type": "Full-Stack Web App",
-    "periodStart": "2026-04",
-    "periodEnd": "2026-05",
-    "periodDisplay": "Apr 2026 – May 2026",
+    "id": "proj-genial-ai",
+    "title": "Genial AI",
+    "type": "AI-Powered Platform",
+    "periodStart": "2023-12",
+    "periodEnd": null,
+    "periodDisplay": "Dec 2023 – Present",
     "roles": [
       "Full-Stack",
-      "IT"
+      "Frontend",
+      "Backend",
+      "AI"
     ],
-    "openByDefault": false,
+    "openByDefault": true,
+    "repoUrl": null,
+    "repoDisplay": null,
     "bullets": [
       {
-        "text": "Independently developed and deployed a custom construction job management platform to replace the company’s existing JobTread workflow.",
+        "text": "Built a full-stack AI content generation platform using Next.js, MUI, and Prisma as the primary frontend and API engineer.",
         "roles": [
           "Full-Stack",
-          "IT"
+          "Frontend",
+          "Backend"
         ]
       },
       {
-        "text": "Handled full project lifecycle: client meetings, requirements gathering, frontend/backend development, deployment, and ongoing feature iteration.",
+        "text": "Implemented a LangChain-powered RAG knowledge search system enabling natural language queries over proprietary data.",
         "roles": [
+          "AI",
+          "Backend",
           "Full-Stack"
         ]
       },
       {
-        "text": "Built with React, Node.js/Express, and PostgreSQL; includes role-based authentication, encrypted entry code storage, and customer access controls.",
+        "text": "Engineered automated data scraping and processing pipelines for structured AI model ingestion.",
         "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Developed budgeting/financial features: nested budget groups, drag-and-drop organization, margin calculations, KPI dashboards, and expense tracking.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Created a customer document portal with PDF generation, e-signature workflows, signed access links, and approval tracking for invoices, proposals, contracts, and change orders.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Integrated QuickBooks APIs for invoice synchronization; experimented with AI-assisted pricing workflows based on item descriptions.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Migrated operational data from the legacy system (customers, jobs, documents, expenses, budget records) into PostgreSQL.",
-        "roles": [
-          "Full-Stack",
-          "IT"
-        ]
-      },
-      {
-        "text": "Managed deployment on a Linux VPS: SSH, firewall, automated PostgreSQL backups, environment management, and production troubleshooting.",
-        "roles": [
-          "Full-Stack",
-          "IT"
+          "AI",
+          "Backend"
         ]
       }
     ],
     "tags": {
-      "Full-Stack": [
-        "React",
-        "Node.js",
-        "Express.js",
-        "PostgreSQL",
-        "JWT Auth",
-        "REST APIs",
-        "QuickBooks API",
-        "PDF Generation",
-        "Linux VPS",
-        "SSH"
+      "Frontend": [
+        "Next.js",
+        "MUI",
+        "React.js"
       ],
-      "IT": [
-        "Linux VPS",
-        "SSH",
-        "PostgreSQL",
-        "Automated Backups",
-        "Database Migration"
+      "Backend": [
+        "Prisma",
+        "API Engineering",
+        "Data Pipelines"
+      ],
+      "AI": [
+        "LangChain",
+        "RAG",
+        "LLMs",
+        "Embeddings"
       ],
       "all": [
-        "React",
-        "Node.js",
-        "Express.js",
-        "PostgreSQL",
-        "JWT Auth",
-        "REST APIs",
-        "QuickBooks API",
-        "PDF Generation",
-        "Linux VPS",
-        "SSH",
-        "Database Migration"
+        "AI Platform",
+        "Full-Stack Development"
       ]
     }
   },
   {
-    "id": "proj-cctv",
-    "title": "CCTV Footage Analysis & Investigation Tooling",
-    "type": "Computer Vision Pipeline",
-    "periodStart": "2026-03",
-    "periodEnd": "2026-04",
-    "periodDisplay": "Mar 2026 – Apr 2026",
+    "id": "proj-bookonline",
+    "title": "BookOnline",
+    "type": "Booking Web App",
+    "periodStart": "2023-10",
+    "periodEnd": "2023-12",
+    "periodDisplay": "Oct 2023 – Dec 2023",
     "roles": [
       "Full-Stack",
-      "IT"
+      "Frontend"
     ],
     "openByDefault": false,
+    "repoUrl": null,
+    "repoDisplay": null,
     "bullets": [
       {
-        "text": "Contributed to an internal CCTV investigation workflow for reviewing and analyzing large volumes of surveillance footage.",
+        "text": "Developed a server-rendered booking platform using React, Next.js, and Chakra UI optimized for performance and SEO.",
         "roles": [
-          "Full-Stack",
-          "IT"
-        ]
-      },
-      {
-        "text": "Worked with Azure Video Indexing and computer vision tooling to automate scene classification, behavioral flagging, and searchable video analysis.",
-        "roles": [
-          "Full-Stack",
-          "IT"
-        ]
-      },
-      {
-        "text": "Streamlined footage review by improving filtering, organization, and investigator review workflows for high-volume video datasets.",
-        "roles": [
-          "IT"
-        ]
-      },
-      {
-        "text": "Processed and organized video metadata for reporting and investigative analysis.",
-        "roles": [
-          "IT"
-        ]
-      }
-    ],
-    "tags": {
-      "Full-Stack": [
-        "Azure Video Indexing",
-        "Computer Vision",
-        "Python",
-        "Automation"
-      ],
-      "IT": [
-        "Azure Video Indexing",
-        "Computer Vision",
-        "Python",
-        "Video Processing",
-        "Automation",
-        "Data Processing"
-      ],
-      "all": [
-        "Azure Video Indexing",
-        "Computer Vision",
-        "Python",
-        "Video Processing",
-        "Automation",
-        "Data Processing"
-      ]
-    }
-  },
-  {
-    "id": "proj-whatsapp",
-    "title": "WhatsApp Bulk & Individual Message Sender",
-    "type": "Streamlit App",
-    "periodStart": "2025-10",
-    "periodEnd": "2025-10",
-    "periodDisplay": "Oct 2025",
-    "roles": [
-      "Full-Stack",
-      "Business-Dev"
-    ],
-    "openByDefault": false,
-    "bullets": [
-      {
-        "text": "Built a Streamlit app for sending WhatsApp messages to individual contacts and bulk recipients via CSV upload, designed for internship shortlisting and outreach automation.",
-        "roles": [
-          "Full-Stack",
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Implemented per-minute scheduling, progress tracking, and status updates to avoid rate limits.",
-        "roles": [
-          "Full-Stack",
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Added customizable message templates with {name} placeholders for personalized bulk outreach.",
-        "roles": [
-          "Full-Stack",
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Built CSV management tools for resetting message status, previewing messages, and viewing planned schedules.",
-        "roles": [
-          "Full-Stack",
-          "Business-Dev"
-        ]
-      }
-    ],
-    "tags": {
-      "Full-Stack": [
-        "Python",
-        "Streamlit",
-        "pywhatkit",
-        "CSV Automation",
-        "Browser Automation"
-      ],
-      "Business-Dev": [
-        "Python",
-        "Streamlit",
-        "Outreach Automation",
-        "CSV Automation",
-        "Template Systems"
-      ],
-      "all": [
-        "Python",
-        "Streamlit",
-        "pywhatkit",
-        "CSV Automation",
-        "Browser Automation",
-        "Template Systems"
-      ]
-    }
-  },
-  {
-    "id": "proj-ai-interviewer-online",
-    "title": "AI Interviewer (Online)",
-    "type": "Streamlit App",
-    "periodStart": "2025-09",
-    "periodEnd": "2025-10",
-    "periodDisplay": "Sep 2025 – Oct 2025",
-    "roles": [
-      "Full-Stack"
-    ],
-    "openByDefault": false,
-    "repoUrl": "https://github.com/ibrahimahtsham/ai-interviewer-online",
-    "repoDisplay": "github.com/ibrahimahtsham/ai-interviewer-online",
-    "bullets": [
-      {
-        "text": "Hardware-agnostic AI interviewer (LLM + STT + TTS) using Streamlit and OpenAI; enables low-spec deployment by delegating heavy workloads to cloud providers.",
-        "roles": [
+          "Frontend",
           "Full-Stack"
         ]
       },
       {
-        "text": "Modular service layer (llm_service.py, stt_service.py, tts_service.py) decoupled from UI for testability and provider swapping.",
+        "text": "Integrated dynamic availability and pricing APIs for accurate real-time booking updates across devices.",
         "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Pluggable provider architecture via environment variables for rapid switching of LLM/speech backends.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "One-command startup scripts (run.sh, run.bat) that create a virtualenv, install dependencies, and launch Streamlit.",
-        "roles": [
-          "Full-Stack"
-        ]
-      }
-    ],
-    "tags": [
-      "Python",
-      "Streamlit",
-      "OpenAI API",
-      "LLM",
-      "STT",
-      "TTS",
-      "Modular Architecture",
-      "Cross-Platform"
-    ]
-  },
-  {
-    "id": "proj-ai-interviewer-offline",
-    "title": "AI Interviewer (Offline)",
-    "type": "Streamlit App",
-    "periodStart": "2025-09",
-    "periodEnd": "2025-09",
-    "periodDisplay": "Sep 2025",
-    "roles": [
-      "Full-Stack"
-    ],
-    "openByDefault": false,
-    "repoUrl": "https://github.com/ibrahimahtsham/ai-interviewer-offline",
-    "repoDisplay": "github.com/ibrahimahtsham/ai-interviewer-offline",
-    "bullets": [
-      {
-        "text": "Privacy-focused offline variant using Ollama for on-device LLM inference and Faster Whisper for local STT, ensuring full data control.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Reused shared UI/tab pattern; swapped cloud clients with local adapters while preserving service signatures for drop-in compatibility.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Model warm-load and lazy initialization to reduce startup latency and memory usage.",
-        "roles": [
-          "Full-Stack"
-        ]
-      }
-    ],
-    "tags": [
-      "Python",
-      "Streamlit",
-      "Ollama",
-      "Faster Whisper",
-      "Offline AI",
-      "Performance Optimization"
-    ]
-  },
-  {
-    "id": "proj-meezan",
-    "title": "Meezan Statement Parser & Expense Tracker",
-    "type": "Web App",
-    "periodStart": "2025-06",
-    "periodEnd": "2025-06",
-    "periodDisplay": "Jun 2025",
-    "roles": [
-      "Full-Stack"
-    ],
-    "openByDefault": false,
-    "repoUrl": "https://github.com/ibrahimahtsham/meezan-statement-parser-and-expense-tracker",
-    "repoDisplay": "github.com/ibrahimahtsham/meezan-statement-parser-and-expense-tracker",
-    "bullets": [
-      {
-        "text": "Client-side web app to parse Meezan Bank CSVs, categorize expenses, and visualize spending trends with interactive charts.",
-        "roles": [
-          "Full-Stack"
-        ]
-      },
-      {
-        "text": "Auto-categorization, CSV upload, and export instructions with no backend required.",
-        "roles": [
-          "Full-Stack"
-        ]
-      }
-    ],
-    "tags": [
-      "React",
-      "Vite",
-      "Recharts",
-      "Chart.js",
-      "CSV Processing"
-    ]
-  },
-  {
-    "id": "proj-freelancer-manager",
-    "title": "Freelancer Client & Project Manager",
-    "type": "React Dashboard",
-    "periodStart": "2025-05",
-    "periodEnd": "2025-08",
-    "periodDisplay": "May 2025 – Aug 2025",
-    "roles": [
-      "Full-Stack",
-      "Business-Dev"
-    ],
-    "openByDefault": false,
-    "repoUrl": "https://github.com/ibrahimahtsham/freelancer-client-info-grabber",
-    "repoDisplay": "github.com/ibrahimahtsham/freelancer-client-info-grabber",
-    "bullets": [
-      {
-        "text": "Built a React/Vite dashboard during the Business Development role at PanaceaLogics to manage Freelancer.com clients, track project data, and calculate team compensation.",
-        "roles": [
-          "Full-Stack",
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Automated client data extraction by chaining project ID to owner ID to client profile lookups via the Freelancer.com API, surfacing contact details typically hidden until a client responds to a bid.",
-        "roles": [
-          "Full-Stack",
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Built bid analytics features tracking success rates, earnings, and project volume with interactive charts via Recharts.",
-        "roles": [
-          "Full-Stack",
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Designed an employee shift management system showing which projects arrived during each team member's working hours, with a salary and commission calculator based on awarded project metrics.",
-        "roles": [
-          "Full-Stack",
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Implemented personalized message template generation for client outreach to speed up initial contact workflows.",
-        "roles": [
-          "Business-Dev"
-        ]
-      },
-      {
-        "text": "Deployed to GitHub Pages with a one-command batch script handling dev server startup, dependency installation, and deployment.",
-        "roles": [
+          "Frontend",
+          "Backend",
           "Full-Stack"
         ]
       }
     ],
     "tags": {
-      "Full-Stack": [
-        "React",
-        "Vite",
-        "Material UI",
-        "Recharts",
-        "React Router",
-        "Freelancer.com API",
-        "GitHub Pages",
-        "Data Visualization"
+      "Frontend": [
+        "React.js",
+        "Next.js",
+        "Chakra UI"
       ],
-      "Business-Dev": [
-        "Freelancer.com API",
-        "Bid Analytics",
-        "Client Management",
-        "Automation",
-        "Recharts"
+      "Backend": [
+        "API Integration",
+        "Real-Time Data"
       ],
       "all": [
-        "React",
-        "Vite",
-        "Material UI",
-        "Recharts",
-        "Freelancer.com API",
-        "Data Visualization",
-        "Automation"
+        "SEO Optimization",
+        "Booking Platform"
       ]
     }
   },
   {
-    "id": "proj-ascii-viewer",
-    "title": "ASCII File Structure Viewer",
-    "type": "React Web App",
-    "periodStart": "2025-05",
-    "periodEnd": "2025-05",
-    "periodDisplay": "May 2025",
+    "id": "proj-tickets-on-sale",
+    "title": "Tickets On Sale",
+    "type": "Event Ticketing Platform",
+    "periodStart": "2023-10",
+    "periodEnd": "2023-12",
+    "periodDisplay": "Oct 2023 – Dec 2023",
     "roles": [
+      "Frontend",
       "Full-Stack"
     ],
     "openByDefault": false,
-    "repoUrl": "https://github.com/ibrahimahtsham/ascii-file-structure-viewer-web",
-    "repoDisplay": "github.com/ibrahimahtsham/ascii-file-structure-viewer-web",
+    "repoUrl": null,
+    "repoDisplay": null,
     "bullets": [
       {
-        "text": "Visualizes project file structures with ASCII art and provides comprehensive code statistics and analysis.",
+        "text": "Engineered scalable and responsive ticketing interfaces using Next.js and Chakra UI for high-traffic event listings.",
         "roles": [
+          "Frontend",
           "Full-Stack"
         ]
       },
       {
-        "text": "GitHub repo integration, interactive tree controls, and smart filtering.",
+        "text": "Connected frontend interfaces with real-time backend APIs for live inventory and seat selection updates.",
         "roles": [
+          "Frontend",
+          "Backend",
           "Full-Stack"
         ]
       }
     ],
-    "tags": [
-      "React 18",
-      "Vite",
-      "Material-UI",
-      "GitHub API"
-    ]
+    "tags": {
+      "Frontend": [
+        "Next.js",
+        "Chakra UI",
+        "Responsive UI"
+      ],
+      "Backend": [
+        "Real-Time APIs",
+        "Inventory Systems"
+      ],
+      "all": [
+        "Ticketing Platform",
+        "Scalable Interfaces"
+      ]
+    }
   }
 ]

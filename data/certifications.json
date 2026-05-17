@@ -1,146 +1,39 @@
 [
   {
-    "id": "cert-ccna",
-    "title": "CCNA 200-301: The Complete Guide to Getting Certified",
-    "issuer": "Udemy",
-    "date": "Jan 2026",
-    "url": "https://www.udemy.com/certificate/UC-8e0e830c-c991-44ad-b721-f9378cbdb062/",
-    "score": null,
-    "roles": [
-      "NOC",
-      "IT"
-    ],
-    "highlights": [
-      "OSI/TCP-IP models, IP addressing, subnetting, VLANs, Ethernet switching, and wireless LANs",
-      "Routing protocols: OSPF, EIGRP, RIP; NAT, ACLs, DHCP, and WAN technologies",
-      "Security fundamentals: access control lists, port security, AAA, and threat identification",
-      "Network automation and programmability: REST APIs and configuration management concepts"
-    ]
-  },
-  {
-    "id": "cert-sw-testing",
-    "title": "Introduction to Software Testing",
-    "issuer": "Coursera + University of Minnesota",
-    "date": "May 2023",
-    "url": "https://coursera.org/verify/TPTPFW22BRZA",
-    "score": "97.84%",
-    "roles": [
-      "Full-Stack",
-      "IT"
-    ],
-    "highlights": [
-      "Test design fundamentals: fixtures, test cases, test oracles, and fault identification",
-      "White-box and black-box testing with statement and branch coverage analysis",
-      "Automated testing tool implementation and comprehensive test suite execution",
-      "Test case quality assessment with input validation and expected outcome verification"
-    ]
-  },
-  {
-    "id": "cert-networking-essentials",
-    "title": "Networking Essentials",
-    "issuer": "Cisco",
-    "date": "Apr 2023",
-    "url": null,
-    "score": null,
-    "roles": [
-      "NOC",
-      "IT"
-    ],
-    "highlights": [
-      "Network architecture: OSI/TCP-IP layering, component types, and communication principles",
-      "IPv4/IPv6 addressing, DHCP, TCP/UDP protocols, routing, and network segmentation",
-      "Ethernet switching, wireless networking, and LAN access technologies",
-      "Basic device management, CLI operations, and network design fundamentals"
-    ]
-  },
-  {
-    "id": "cert-linux-essentials",
-    "title": "NDG Linux Essentials",
-    "issuer": "Cisco",
-    "date": "Jul 2022",
+    "id": "cert-mern-stack-development",
+    "title": "MERN Stack Development",
+    "issuer": "NexusBerry Training & Solutions",
+    "date": "Oct 2022",
     "url": null,
     "score": null,
     "roles": [
       "Full-Stack",
-      "NOC",
-      "IT"
+      "Frontend",
+      "Backend"
     ],
     "highlights": [
-      "Linux OS architecture, distributions, and command-line interface fundamentals",
-      "File system navigation, permissions management, and user account administration",
-      "Software installation, package management, and system configuration",
-      "LPI Linux Essentials certification exam preparation"
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Node.js"
     ]
   },
   {
-    "id": "cert-linux-unhatched",
-    "title": "NDG Linux Unhatched",
-    "issuer": "Cisco",
-    "date": "Jul 2022",
+    "id": "cert-full-stack-development",
+    "title": "Full Stack Development",
+    "issuer": "Pakistan Freelancing Training Program",
+    "date": "Aug 2022",
     "url": null,
     "score": null,
     "roles": [
       "Full-Stack",
-      "NOC",
-      "IT"
+      "Frontend",
+      "Backend"
     ],
     "highlights": [
-      "Linux installation, system configuration, and command-line interface introduction",
-      "Core commands for file operations, directory navigation, and system information retrieval",
-      "Introduction to shell operations, input/output redirection, and basic scripting concepts"
-    ]
-  },
-  {
-    "id": "cert-linux-ibm",
-    "title": "Hands-on Introduction to Linux Commands & Shell Scripting",
-    "issuer": "IBM / Coursera",
-    "date": "Jun 2022",
-    "url": "https://www.coursera.org/verify/P882VCLNATYS",
-    "score": "94.66%",
-    "roles": [
-      "Full-Stack",
-      "NOC",
-      "IT"
-    ],
-    "highlights": [
-      "Linux architecture, distributions, software installation, and package management",
-      "Essential Bash commands: file operations, navigation, compression, and content filtering",
-      "Shell script development with variables, pipes, filters, and control flow structures",
-      "Cron job scheduling with crontab; automated ETL pipelines and backup scripts"
-    ]
-  },
-  {
-    "id": "cert-cpp",
-    "title": "Programming Essentials in C++ (CPA)",
-    "issuer": "Cisco",
-    "date": "Feb 2022",
-    "url": null,
-    "score": null,
-    "roles": [
-      "Full-Stack"
-    ],
-    "highlights": [
-      "C++ syntax, data types, control flow, functions, and memory management",
-      "Object-oriented programming: classes, inheritance, polymorphism, and encapsulation",
-      "Standard C++ library usage and language-specific problem solving",
-      "CPA (C++ Certified Associate Programmer) exam preparation"
-    ]
-  },
-  {
-    "id": "cert-data-structures",
-    "title": "Applying Data Structures to Manipulate Cleansed UN Data",
-    "issuer": "Coursera",
-    "date": "Dec 2021",
-    "url": "https://www.coursera.org/verify/KGMTLDUJ5VNR",
-    "score": "87.50%",
-    "roles": [
-      "Full-Stack"
-    ],
-    "highlights": [
-      "Core data structures: arrays, stacks, queues, linked lists, and hash tables",
-      "Java Collections Framework implementation and industry-standard practices",
-      "Real-world data manipulation: processing and transforming UN dataset records",
-      "Algorithmic selection based on use-case optimization and performance trade-offs"
+      "Frontend Development",
+      "Backend APIs",
+      "JavaScript Ecosystem"
     ]
   }
 ]
