@@ -74,57 +74,7 @@
       ]
     }
   },
-  {
-    "id": "exp-techedge",
-    "title": "Full-Stack Developer (Contract)",
-    "org": "TechEdge",
-    "periodStart": "2023-09",
-    "periodEnd": "2023-09",
-    "periodDisplay": "Sep 2023",
-    "location": "Remote",
-    "mode": "Remote",
-    "roles": [
-      "Full-Stack",
-      "Frontend",
-      "Backend"
-    ],
-    "openByDefault": false,
-    "bullets": [
-      {
-        "text": "Delivered end-to-end full-stack features using React.js, TypeScript, Node.js, and Tailwind CSS within a fast-paced contract timeline.",
-        "roles": [
-          "Full-Stack",
-          "Frontend",
-          "Backend"
-        ]
-      },
-      {
-        "text": "Built and documented backend REST APIs with authentication and validation, reducing production bugs through strong typing practices.",
-        "roles": [
-          "Full-Stack",
-          "Backend"
-        ]
-      }
-    ],
-    "tags": {
-      "Full-Stack": [
-        "React.js",
-        "TypeScript",
-        "Node.js",
-        "Tailwind CSS"
-      ],
-      "Backend": [
-        "REST APIs",
-        "Authentication",
-        "Validation"
-      ],
-      "all": [
-        "Contract Development",
-        "Rapid Delivery"
-      ]
-    }
-  },
-  {
+   {
     "id": "exp-react-intern",
     "title": "React Developer Intern",
     "org": "aSimplify",
@@ -174,6 +124,56 @@
         "Agile",
         "Code Reviews",
         "Reusable Components"
+      ]
+    }
+  },
+  {
+    "id": "exp-techedge",
+    "title": "Full-Stack Developer (Contract)",
+    "org": "TechEdge",
+    "periodStart": "2023-09",
+    "periodEnd": "2023-09",
+    "periodDisplay": "Sep 2023",
+    "location": "Remote",
+    "mode": "Remote",
+    "roles": [
+      "Full-Stack",
+      "Frontend",
+      "Backend"
+    ],
+    "openByDefault": false,
+    "bullets": [
+      {
+        "text": "Delivered end-to-end full-stack features using React.js, TypeScript, Node.js, and Tailwind CSS within a fast-paced contract timeline.",
+        "roles": [
+          "Full-Stack",
+          "Frontend",
+          "Backend"
+        ]
+      },
+      {
+        "text": "Built and documented backend REST APIs with authentication and validation, reducing production bugs through strong typing practices.",
+        "roles": [
+          "Full-Stack",
+          "Backend"
+        ]
+      }
+    ],
+    "tags": {
+      "Full-Stack": [
+        "React.js",
+        "TypeScript",
+        "Node.js",
+        "Tailwind CSS"
+      ],
+      "Backend": [
+        "REST APIs",
+        "Authentication",
+        "Validation"
+      ],
+      "all": [
+        "Contract Development",
+        "Rapid Delivery"
       ]
     }
   },
